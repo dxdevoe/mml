@@ -1,6 +1,12 @@
 document.write('\
 <ul class="text-small">\
 \
+<li><a href="https://doi.org/10.1021/acs.analchem.5c02907">ES. Mehraji, D.L. DeVoe, “Multilayer counterflow microdialysis chips for scalable buffer exchange and sample purification,” Anal Chem, 97, 15502-15509, 2025.</a><br><br>\
+\
+<li><a href="https://doi.org/10.1021/acs.langmuir.5c02828">K. Pacheco, L. DeVoe, D.L. DeVoe, "Fabrication of superhydrophobic glass surfaces by hierarchical micro powder blasting-assisted silanization," Langmuir, 41, 22433-22440, 2025.</a><br><br>\
+\
+<li><a href="https://doi.org/10.1016/j.snb.2025.138349">P. Bhattacharya, D. Rastogi, S. Mehraji, J. Camarero de la Torre, A. Mehta, S. Tai, A. Hasani, A. Smith, W. Smith, A. Asa-Awuku, D.K. Milton, D.L. DeVoe, "3D printed microcyclones for enhanced collection, separation, https://doi.org/10.1021/acs.langmuir.5c02828and recovery of sub-micrometer bioaerosols," Sens Act B, 444, 138349, 2025.</a><br><br>\
+\
 <li><a href="https://doi.org/10.1039/D4LC00940A">S.R. Srimathi, M.A. Ignacio, M. Rife, S. Tai, D.K. Milton, M.A. Scull, D.L. DeVoe, "Microfluidic digital focus assays for the quantification of infectious influenza virus," Lab Chip, 25, 2004-2016, 2025.</a><br><br>\
 \
 <li><a href="https://doi.org/10.1093/intbio/zyae014">M. Yeh, E. Salazar-Cavazos, A. Krishnan, Grégoire Altan-Bonnet,  Don L. DeVoe, "Probing T-cell activation in nanoliter tumor co-cultures using membrane displacement trap arrays," Integrative Biology, 16, zyae014, 2024.</a><br><br>\
